@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Note App</string>
+
+    <string name="note_title">All notes</string>
+    <string name="title">Title</string>
+    <string name="date_created">Date created</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+
+    <string name="add_note_title">Add Note</string>
+    <string name="edit_note_title">Edit Note</string>
+    <string name="note_detail">Note detail</string>
+    <string name="delete">Delete</string>
+    <string name="remove">remove</string>
+
+    <string name="dialog_alert_title">Attention</string>
+    <string name="remove_question">Are you sure you want to remove?</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="restore_question">Are you sure you want to restore?</string>
+    <string name="recyclebin">recyclebin</string>
+    <string name="amount_plural">%d notes</string>
+    <string name="amount">%d note</string>
+    <string name="recycle_bin">Recycle Bin</string>
+    <string name="no_items_status">No items</string>
+    <string name="restore">Restore</string>
+</resources>
